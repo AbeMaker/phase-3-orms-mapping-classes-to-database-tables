@@ -1,3 +1,5 @@
+#Creating the Database
+#Before we can create a songs table we need to create our music database
 require 'bundler'
 Bundler.require
 
